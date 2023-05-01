@@ -7,8 +7,8 @@ import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.RowConstraints;
 
 public class GameBoard extends Pane {
-	private static final int ROWS = 14;
-	private static final int COLS = 13;
+	private static final int ROWS = 15;
+	private static final int COLS = 15;
 	private GameObject[][] matrix;
 	private GridPane grid;
 
